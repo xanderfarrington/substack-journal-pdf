@@ -1,4 +1,4 @@
 # Put one Substack article URL or RSS URL per line.
 # Example:
-# https://example.substack.com/p/example-article
-# https://example.substack.com/feed
+https://stratageminitiative.substack.com/p/orthodox-brotherhood-how-russia-keeps
+https://stratageminitiative.substack.com/p/the-eternal-lost-decade-chifagate
